@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>This is a movie app</div>
+      <div className="text-lg">This is a movie app</div>
     </>
   );
 }
