@@ -4,7 +4,6 @@
 
 ## Expanding the ESLint configuration
 
-If recommend configuration
 
 - Configure the top-level `parserOptions` property like this:
 
