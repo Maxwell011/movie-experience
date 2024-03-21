@@ -4,7 +4,7 @@
 
 ## Expanding the ESLint configuration
 
-If recommend configuration to enable type aware lint rules:
+If recommend configuration
 
 - Configure the top-level `parserOptions` property like this:
 
